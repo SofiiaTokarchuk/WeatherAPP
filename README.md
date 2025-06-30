@@ -36,7 +36,7 @@ Git clone:
 Отримати посилання для клонування проєкту
 
 Відкрити VSCode > у Explorer VSCode відкрити папку для збереження склонованого проєкту > у терміналі прописати команду:
-git clone https://github.com/WorldIT-academy/WeatherApp.git
+git clone https://github.com/SofiiaTokarchuk/WeatherAPP.git
 
 Відкрити каталог, який ви склонували у Explorer VSCode
 Download ZIP
